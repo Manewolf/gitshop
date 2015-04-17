@@ -1,4 +1,4 @@
-/*Website Template by freewebsitetemplates.com*/
+00/*Website Template by freewebsitetemplates.com*/
 @font-face {
 	font-family: 'Philosopher-Regular';
 	src: url('../fonts/Philosopher-Regular/Philosopher-Regular.eot');
@@ -10,7 +10,7 @@
 	src: url('../fonts/Philosopher-Bold/Philosopher-Bold.woff') format('woff'), url('../fonts/Philosopher-Bold/Philosopher-Bold.ttf') format('truetype'), url('../fonts/Philosopher-Bold/Philosopher-Bold.svg') format('svg');
 }
 body {
-	background: url(../images/bg-body.jpg) repeat;
+	background: url(http://img4.wikia.nocookie.net/__cb20141126111049/gfaqssb/images/4/43/Knuckles_from_sonic_boom_by_banzchan-d75kfhn.jpg) repeat;
 	color: #727272;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
@@ -20,17 +20,17 @@ body {
 	padding: 0;
 }
 #background {
-	background: url(../images/bg-page.jpg) no-repeat top center;
+	background: url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png) no-repeat top center;
 	margin: 0;
 	padding: 0;
 }
 #header {
-	background: url(../images/bg-header2.png) repeat-x top center;
+	background: url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png) repeat-x top center;
 	margin: 0;
 	padding: 0;
 }
 #header > div {
-	background: url(../images/bg-header.png) no-repeat top center;
+	background: url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png) no-repeat top center;
 	margin: 0;
 	padding: 0;
 }
@@ -53,7 +53,7 @@ body {
 	display: block;
 }
 #header ul {
-	background: url(../images/bg-navigation.png) no-repeat center center;
+	background: url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png) no-repeat center center;
 	bottom: -107px;
 	height: 98px;
 	left: 30px;
@@ -71,7 +71,7 @@ body {
 	padding: 0;
 }
 #header ul li a {
-	background: url(../images/menu.png) no-repeat;
+	background: url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png no-repeat;
 	color: #a8a8a8;
 	display: block;
 	font-family: 'Philosopher-Bold';
@@ -121,7 +121,7 @@ body {
 	background-position: -669px -113px;
 }
 #body {
-	background: url(../images/bg-body-header.png) no-repeat top center;
+	background: url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png) no-repeat top center;
 	margin: 0 auto;
 	padding: 112px 0 0;
 	width: 960px;
@@ -137,12 +137,12 @@ body {
 	color: #a3a3a3;
 }
 #body > div {
-	background: url(../images/bg-body-footer.png) no-repeat bottom center;
+	background: url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png) no-repeat bottom center;
 	margin: 0;
 	padding: 0 0 114px;
 }
 #body > div > div {
-	background: url(../images/bg-body2.png) repeat-y top center;
+	background: url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png) repeat-y top center;
 	min-height: 400px;
 	margin: 0;
 	padding: 0;
@@ -162,14 +162,14 @@ body {
 	z-index: 1;
 }
 #body div div .section {
-	background: #0a0a0a url(../images/gradient.png) repeat-x bottom center;
+	background: #0a0a0a url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png) repeat-x bottom center;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 102px 9px 22px 9px;
 	width: 940px;
 }
 #body div div .section > div {
-	background: url(../images/border.gif) repeat-x top left;
+	background: url(http://th07.deviantart.net/fs70/PRE/i/2014/221/1/1/knuckles_on_steroids_sonic_boom_by_rubbe-d7uchil.png) repeat-x top left;
 	float: left;
 	margin: 0 10px;
 	padding: 3px 0 0;
